@@ -1,0 +1,40 @@
+{
+  "monsters": [
+    {"stat": "Lif", "base": 168, "gainrating": "C", "gainvalue": 3},
+    {"stat": "Pow", "base": 87,  "gainrating": "D", "gainvalue": 2},
+    {"stat": "Int", "base": 171, "gainrating": "B", "gainvalue": 4},
+    {"stat": "Ski", "base": 182, "gainrating": "B", "gainvalue": 4},
+    {"stat": "Spd", "base": 172, "gainrating": "C", "gainvalue": 3},
+    {"stat": "Def", "base": 48,  "gainrating": "E", "gainvalue": 1}
+  ],
+  "drills": [
+    {"drill": "Domino",   "type": "Light", "main+": "Pow", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Shoot",    "type": "Light", "main+": "Ski", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Study",    "type": "Light", "main+": "Int", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Dodge",    "type": "Light", "main+": "Spd", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Run",      "type": "Light", "main+": "Lif", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Endure",   "type": "Light", "main+": "Def", "sub+": null, "drop-": null, "stresschange": 5,  "fatiguechange": 10, "loyaltychange": 0},
+    {"drill": "Pull",     "type": "Heavy", "main+": "Pow", "sub+": "Lif", "drop-": "Spd", "stresschange": 12, "fatiguechange": 15, "loyaltychange": 0},
+    {"drill": "Leap",     "type": "Heavy", "main+": "Spd", "sub+": "Int", "drop-": "Pow", "stresschange": 12, "fatiguechange": 15, "loyaltychange": 0},
+    {"drill": "Meditate", "type": "Heavy", "main+": "Int", "sub+": "Ski", "drop-": "Def", "stresschange": 12, "fatiguechange": 15, "loyaltychange": 0},
+    {"drill": "Swim",     "type": "Heavy", "main+": "Def", "sub+": "Lif", "drop-": "Int", "stresschange": 12, "fatiguechange": 15, "loyaltychange": 0}
+  ],
+  "items": [
+    {"item": "Mango",       "stress": null,            "fatigue": "-10",  "loyaltydelta": "+1 (≈)", "cost": 60},
+    {"item": "Candy",       "stress": "-2",            "fatigue": null,   "loyaltydelta": "+1 (≈)", "cost": 120},
+    {"item": "Smoked Snake","stress": null,            "fatigue": null,   "loyaltydelta": "Variable (Fear+40%, Spoil-20%)", "cost": 600},
+    {"item": "Apple Cake",  "stress": null,            "fatigue": null,   "loyaltydelta": "Variable (Fear‑10%, Spoil+10)",   "cost": 600},
+    {"item": "Mint Leaf",   "stress": "-50%",          "fatigue": null,   "loyaltydelta": "-1",      "cost": 200},
+    {"item": "Powder",      "stress": null,            "fatigue": "+5",   "loyaltydelta": null,      "cost": 100},
+    {"item": "Sweet Jelly", "stress": null,            "fatigue": null,   "loyaltydelta": null,      "cost": 200},
+    {"item": "Sour Jelly",  "stress": null,            "fatigue": null,   "loyaltydelta": null,      "cost": 200},
+    {"item": "Nuts Oil",    "stress": "-20% (H.A.D.)", "fatigue": "-28",  "loyaltydelta": "+1 (≈)",  "cost": 200},
+    {"item": "Star Prunes", "stress": null,            "fatigue": null,   "loyaltydelta": "+3 (≈)",  "cost": 1000}
+  ],
+  "metadata": {
+    "monsters_rows": 6,
+    "drills_rows": 10,
+    "items_rows": 10,
+    "timestamp": "2025-05-24T18:50:56.288833"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "run_log": [
+    {
+      "week": 1,
+      "stats": { "LIF": 168, "POW": 87, "INT": 183, "SKI": 186, "SPD": 172, "DEF": 44 },
+      "fatigue": 0,
+      "stress": 9.6,
+      "loyalty": 52
+    },
+    {
+      "week": 2,
+      "stats": { "LIF": 168, "POW": 83, "INT": 187, "SKI": 186, "SPD": 184, "DEF": 44 },
+      "fatigue": 0,
+      "stress": 13.28,
+      "loyalty": 54
+    },
+    {
+      "week": 3,
+      "stats": { "LIF": 168, "POW": 83, "INT": 187, "SKI": 186, "SPD": 188, "DEF": 44 },
+      "fatigue": 10,
+      "stress": 6.64,
+      "loyalty": 54
+    },
+    {
+      "week": 4,
+      "stats": { "LIF": 168, "POW": 83, "INT": 199, "SKI": 190, "SPD": 188, "DEF": 40 },
+      "fatigue": 0,
+      "stress": 10.91,
+      "loyalty": 56
+    },
+    {
+      "week": 5,
+      "stats": { "LIF": 168, "POW": 83, "INT": 203, "SKI": 190, "SPD": 188, "DEF": 40 },
+      "fatigue": 10,
+      "stress": 5.46,
+      "loyalty": 56
+    },
+    {
+      "week": 6,
+      "stats": { "LIF": 168, "POW": 79, "INT": 207, "SKI": 190, "SPD": 200, "DEF": 40 },
+      "fatigue": 0,
+      "stress": 9.96,
+      "loyalty": 58
+    },
+    {
+      "week": 7,
+      "stats": { "LIF": 168, "POW": 79, "INT": 207, "SKI": 190, "SPD": 204, "DEF": 40 },
+      "fatigue": 10,
+      "stress": 4.98,
+      "loyalty": 58
+    },
+    {
+      "week": 8,
+      "stats": { "LIF": 168, "POW": 79, "INT": 219, "SKI": 194, "SPD": 204, "DEF": 36 },
+      "fatigue": 0,
+      "stress": 9.6,
+      "loyalty": 60
+    },
+    {
+      "week": 9,
+      "stats": { "LIF": 168, "POW": 75, "INT": 223, "SKI": 194, "SPD": 216, "DEF": 36 },
+      "fatigue": 15,
+      "stress": 8.3,
+      "loyalty": 60
+    },
+    {
+      "week": 10,
+      "stats": { "LIF": 168, "POW": 75, "INT": 227, "SKI": 194, "SPD": 216, "DEF": 36 },
+      "fatigue": 15,
+      "stress": 6.3,
+      "loyalty": 62
+    },
+    {
+      "week": 11,
+      "stats": { "LIF": 168, "POW": 75, "INT": 239, "SKI": 198, "SPD": 216, "DEF": 32 },
+      "fatigue": 20,
+      "stress": 6.65,
+      "loyalty": 62
+    },
+    {
+      "week": 12,
+      "stats": { "LIF": 168, "POW": 71, "INT": 243, "SKI": 198, "SPD": 228, "DEF": 32 },
+      "fatigue": 0,
+      "stress": 10.92,
+      "loyalty": 64
+    },
+    {
+      "week": 13,
+      "stats": { "LIF": 168, "POW": 71, "INT": 243, "SKI": 198, "SPD": 232, "DEF": 32 },
+      "fatigue": 10,
+      "stress": 8.92,
+      "loyalty": 66
+    },
+    {
+      "week": 14,
+      "stats": { "LIF": 168, "POW": 71, "INT": 255, "SKI": 202, "SPD": 232, "DEF": 28 },
+      "fatigue": 0,
+      "stress": 12.74,
+      "loyalty": 68
+    },
+    {
+      "week": 15,
+      "stats": { "LIF": 168, "POW": 67, "INT": 259, "SKI": 202, "SPD": 244, "DEF": 28 },
+      "fatigue": 15,
+      "stress": 9.87,
+      "loyalty": 68
+    },
+    {
+      "week": 16,
+      "stats": { "LIF": 168, "POW": 67, "INT": 263, "SKI": 202, "SPD": 244, "DEF": 28 },
+      "fatigue": 5,
+      "stress": 9.87,
+      "loyalty": 70
+    },
+    {
+      "week": 17,
+      "stats": { "LIF": 168, "POW": 67, "INT": 275, "SKI": 206, "SPD": 244, "DEF": 24 },
+      "fatigue": 0,
+      "stress": 13.49,
+      "loyalty": 72
+    },
+    {
+      "week": 18,
+      "stats": { "LIF": 168, "POW": 63, "INT": 279, "SKI": 206, "SPD": 256, "DEF": 24 },
+      "fatigue": 15,
+      "stress": 10.25,
+      "loyalty": 72
+    },
+    {
+      "week": 19,
+      "stats": { "LIF": 168, "POW": 63, "INT": 279, "SKI": 206, "SPD": 260, "DEF": 24 },
+      "fatigue": 15,
+      "stress": 8.25,
+      "loyalty": 74
+    },
+    {
+      "week": 20,
+      "stats": { "LIF": 168, "POW": 63, "INT": 291, "SKI": 210, "SPD": 260, "DEF": 20 },
+      "fatigue": 0,
+      "stress": 12.2,
+      "loyalty": 76
+    }
+  ],
+  "final_stats": { "LIF": 168, "POW": 63, "INT": 291, "SKI": 210, "SPD": 260, "DEF": 20, "loyalty": 76 },
+  "breaches": [],
+  "sim_notes": "Simulated 20 weeks. Lifespan used: 20."
+}

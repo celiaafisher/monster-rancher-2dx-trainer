@@ -4,7 +4,7 @@
       "week": 1,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "praise after drill \u2013 start loyalty building"
+      "notes": "praise after drill – start loyalty building"
     },
     {
       "week": 2,
@@ -87,13 +87,13 @@
     {
       "week": 15,
       "drill": "Leap",
-      "item": "None",
+      "item": "Mint Leaf",
       "notes": "praise; mint offsets stress spike"
     },
     {
       "week": 16,
       "drill": "Study",
-      "item": "Mango",
+      "item": "None",
       "notes": "praise; a little fatigue relief"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "week": 18,
-      "drill": "Leap",
+      "drill": "Rest",
       "item": "None",
       "notes": "praise; scold only on failure"
     },

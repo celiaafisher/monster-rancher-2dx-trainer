@@ -20,7 +20,7 @@ NAT_FATIGUE_RECOVER = 10
 NAT_STRESS_RECOVER = 5
 
 # Max items allowed in a 4-week block
-MAX_ITEMS_PER_MONTH = 3
+MAX_ITEMS_PER_MONTH = 2
 
 # Map drills to info
 drill_info = {d['drill']: d for d in data['drills']}
@@ -48,6 +48,7 @@ def apply_item(item, fatigue, stress, loyalty):
 
 run_log = []
 warnings = []
+breaches = []
 items_in_month = 0
 current_month = 1
 months_warned = set()
@@ -92,13 +93,20 @@ for week_entry in schedule_data['schedule']:
         # praise after drill
         loyalty += 1
 
-    # apply item
-    fatigue, stress, loyalty = apply_item(item, fatigue, stress, loyalty)
+    # apply item with monthly limit enforcement
     if item and item.lower() != 'none':
-        items_in_month += 1
-        if items_in_month > MAX_ITEMS_PER_MONTH and current_month not in months_warned:
-            warnings.append(f"Month {current_month} uses {items_in_month} items (limit {MAX_ITEMS_PER_MONTH}).")
-            months_warned.add(current_month)
+        if items_in_month >= MAX_ITEMS_PER_MONTH:
+            if current_month not in months_warned:
+                warnings.append(
+                    f"Month {current_month} uses more than {MAX_ITEMS_PER_MONTH} items. Extras ignored."
+                )
+                months_warned.add(current_month)
+            breaches.append({'week': week, 'type': 'item_limit', 'item': item})
+            item = 'None'
+        else:
+            items_in_month += 1
+
+    fatigue, stress, loyalty = apply_item(item, fatigue, stress, loyalty)
 
     # track lifespan
     lifespan_used += 1
@@ -113,8 +121,6 @@ for week_entry in schedule_data['schedule']:
 
 final_stats = {k: int(v) for k, v in stats.items()}
 final_stats['loyalty'] = loyalty
-
-breaches = []
 for entry in run_log:
     if entry['fatigue'] > 40:
         breaches.append({'week': entry['week'], 'type': 'fatigue', 'value': entry['fatigue']})

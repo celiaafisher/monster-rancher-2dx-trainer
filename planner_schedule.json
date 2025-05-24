@@ -135,6 +135,7 @@
     "loyalty_final": 54
   },
   "warnings": [
-    "Schedule uses approximate drill effects; exact stat gains may vary."
+    "Schedule uses approximate drill effects; exact stat gains may vary.",
+    "Praise or scold only trigger on Great, Fail, or Cheat outcomes so loyalty will vary."
   ]
 }

@@ -19,6 +19,9 @@ lifespan_used = 0
 NAT_FATIGUE_RECOVER = 10
 NAT_STRESS_RECOVER = 5
 
+# Max items allowed in a 4-week block
+MAX_ITEMS_PER_MONTH = 3
+
 # Map drills to info
 drill_info = {d['drill']: d for d in data['drills']}
 
@@ -44,11 +47,20 @@ def apply_item(item, fatigue, stress, loyalty):
     return fatigue, stress, loyalty
 
 run_log = []
+warnings = []
+items_in_month = 0
+current_month = 1
+months_warned = set()
 
 for week_entry in schedule_data['schedule']:
     week = week_entry['week']
     drill = week_entry['drill']
     item = week_entry['item']
+
+    month = (week - 1) // 4 + 1
+    if month != current_month:
+        current_month = month
+        items_in_month = 0
 
     # natural recovery at start of week (except week 1)
     if week > 1:
@@ -82,6 +94,11 @@ for week_entry in schedule_data['schedule']:
 
     # apply item
     fatigue, stress, loyalty = apply_item(item, fatigue, stress, loyalty)
+    if item and item.lower() != 'none':
+        items_in_month += 1
+        if items_in_month > MAX_ITEMS_PER_MONTH and current_month not in months_warned:
+            warnings.append(f"Month {current_month} uses {items_in_month} items (limit {MAX_ITEMS_PER_MONTH}).")
+            months_warned.add(current_month)
 
     # track lifespan
     lifespan_used += 1
@@ -110,7 +127,8 @@ output = {
     'run_log': run_log,
     'final_stats': final_stats,
     'breaches': breaches,
-    'sim_notes': sim_notes
+    'sim_notes': sim_notes,
+    'warnings': warnings
 }
 
 print(json.dumps(output, indent=2))

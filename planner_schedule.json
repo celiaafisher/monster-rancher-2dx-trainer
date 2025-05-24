@@ -23,5 +23,8 @@
     ,{ "week": 21, "drill": "Rest", "item": "None", "notes": "take a break for recovery" }
 ],
 "totals": { "INT": 120, "SPD": 88, "fatigue_peak": 28, "stress_peak": 18, "loyalty_final": 54 },
-"warnings": [ "Schedule uses approximate drill effects; exact stat gains may vary." ]
+"warnings": [
+  "Schedule uses approximate drill effects; exact stat gains may vary.",
+  "Some months exceed the 3 item per month limit."
+]
 }

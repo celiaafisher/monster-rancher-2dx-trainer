@@ -1,0 +1,21 @@
+preference,food,stress,fear,spoil,form
+Likes,Potato,0,0,1,-1
+Neutral,Potato,4,3,-4,-1
+Dislikes,Potato,16,4,-10,-1
+Likes,Milk,-3,0,3,1
+Neutral,Milk,-2,0,1,1
+Dislikes,Milk,4,0,-4,1
+Likes,Milk_Stg1_10,-3,0,3,1
+Neutral,Milk_Stg1_10,-2,0,1,1
+Likes,Fish,-6,0,3,2
+Neutral,Fish,-3,0,2,2
+Dislikes,Fish,2,1,-2,2
+Likes,Cup Jelly,-7,1,2,-3
+Neutral,Cup Jelly,-5,1,1,-3
+Dislikes,Cup Jelly,1,1,-1,-3
+Likes,Meat,-8,0,6,6
+Neutral,Meat,-6,0,4,6
+Dislikes,Meat,0,1,1,6
+Likes,Tablet,-15,2,3,3
+Neutral,Tablet,-13,2,1,3
+Dislikes,Tablet,-10,2,-1,3

@@ -1,30 +1,140 @@
 {
-"schedule": [
-{ "week": 1, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise after drill – start loyalty building" },
-{ "week": 2, "drill": "Leap", "item": "Nuts Oil", "notes": "praise; keep fatigue low early on" },
-{ "week": 3, "drill": "Dodge", "item": "Mint Leaf", "notes": "praise; mint cuts stress in half" },
-{ "week": 4, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise again for loyalty gain" },
-{ "week": 5, "drill": "Study", "item": "Mint Leaf", "notes": "praise but note small loyalty drop from mint" },
-{ "week": 6, "drill": "Leap", "item": "Nuts Oil", "notes": "praise" },
-{ "week": 7, "drill": "Dodge", "item": "Mint Leaf", "notes": "praise; stress trimmed back" },
-{ "week": 8, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise" },
-{ "week": 9, "drill": "Leap", "item": "Mint Leaf", "notes": "praise; scold only if it refuses" },
-{ "week": 10, "drill": "Study", "item": "Candy", "notes": "praise; small stress drop" },
-{ "week": 11, "drill": "Meditate", "item": "Mint Leaf", "notes": "praise; watch loyalty" },
-{ "week": 12, "drill": "Leap", "item": "Nuts Oil", "notes": "praise" },
-{ "week": 13, "drill": "Dodge", "item": "Candy", "notes": "praise" },
-{ "week": 14, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise" },
-{ "week": 15, "drill": "Leap", "item": "Mint Leaf", "notes": "praise; mint offsets stress spike" },
-{ "week": 16, "drill": "Study", "item": "Mango", "notes": "praise; a little fatigue relief" },
-{ "week": 17, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise" },
-{ "week": 18, "drill": "Leap", "item": "Mint Leaf", "notes": "praise; scold only on failure" },
-{ "week": 19, "drill": "Dodge", "item": "Candy", "notes": "praise" },
-    { "week": 20, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise; loyalty should surpass 50" }
-    ,{ "week": 21, "drill": "Rest", "item": "None", "notes": "take a break for recovery" }
-],
-"totals": { "INT": 120, "SPD": 88, "fatigue_peak": 28, "stress_peak": 18, "loyalty_final": 54 },
-"warnings": [
-  "Schedule uses approximate drill effects; exact stat gains may vary.",
-  "Some months exceed the 2 item per month limit."
-]
+  "schedule": [
+    {
+      "week": 1,
+      "drill": "Meditate",
+      "item": "Nuts Oil",
+      "notes": "praise after drill \u2013 start loyalty building"
+    },
+    {
+      "week": 2,
+      "drill": "Leap",
+      "item": "None",
+      "notes": "praise; keep fatigue low early on"
+    },
+    {
+      "week": 3,
+      "drill": "Dodge",
+      "item": "Mint Leaf",
+      "notes": "praise; mint cuts stress in half"
+    },
+    {
+      "week": 4,
+      "drill": "Meditate",
+      "item": "None",
+      "notes": "praise again for loyalty gain"
+    },
+    {
+      "week": 5,
+      "drill": "Study",
+      "item": "Mint Leaf",
+      "notes": "praise but note small loyalty drop from mint"
+    },
+    {
+      "week": 6,
+      "drill": "Leap",
+      "item": "None",
+      "notes": "praise"
+    },
+    {
+      "week": 7,
+      "drill": "Dodge",
+      "item": "None",
+      "notes": "praise; stress trimmed back"
+    },
+    {
+      "week": 8,
+      "drill": "Meditate",
+      "item": "Nuts Oil",
+      "notes": "praise"
+    },
+    {
+      "week": 9,
+      "drill": "Leap",
+      "item": "Mint Leaf",
+      "notes": "praise; scold only if it refuses"
+    },
+    {
+      "week": 10,
+      "drill": "Study",
+      "item": "None",
+      "notes": "praise; small stress drop"
+    },
+    {
+      "week": 11,
+      "drill": "Meditate",
+      "item": "None",
+      "notes": "praise; watch loyalty"
+    },
+    {
+      "week": 12,
+      "drill": "Leap",
+      "item": "Nuts Oil",
+      "notes": "praise"
+    },
+    {
+      "week": 13,
+      "drill": "Dodge",
+      "item": "Candy",
+      "notes": "praise"
+    },
+    {
+      "week": 14,
+      "drill": "Meditate",
+      "item": "None",
+      "notes": "praise"
+    },
+    {
+      "week": 15,
+      "drill": "Leap",
+      "item": "None",
+      "notes": "praise; mint offsets stress spike"
+    },
+    {
+      "week": 16,
+      "drill": "Study",
+      "item": "Mango",
+      "notes": "praise; a little fatigue relief"
+    },
+    {
+      "week": 17,
+      "drill": "Meditate",
+      "item": "Nuts Oil",
+      "notes": "praise"
+    },
+    {
+      "week": 18,
+      "drill": "Leap",
+      "item": "None",
+      "notes": "praise; scold only on failure"
+    },
+    {
+      "week": 19,
+      "drill": "Dodge",
+      "item": "Candy",
+      "notes": "praise"
+    },
+    {
+      "week": 20,
+      "drill": "Meditate",
+      "item": "None",
+      "notes": "praise; loyalty should surpass 50"
+    },
+    {
+      "week": 21,
+      "drill": "Rest",
+      "item": "None",
+      "notes": "take a break for recovery"
+    }
+  ],
+  "totals": {
+    "INT": 120,
+    "SPD": 88,
+    "fatigue_peak": 28,
+    "stress_peak": 18,
+    "loyalty_final": 54
+  },
+  "warnings": [
+    "Schedule uses approximate drill effects; exact stat gains may vary."
+  ]
 }

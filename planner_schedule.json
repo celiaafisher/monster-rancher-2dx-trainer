@@ -4,7 +4,8 @@
       "week": 1,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "praise after drill – start loyalty building"
+      "notes": "praise after drill \u2013 start loyalty building",
+      "food": "Cup Jelly"
     },
     {
       "week": 2,
@@ -28,7 +29,8 @@
       "week": 5,
       "drill": "Study",
       "item": "Mint Leaf",
-      "notes": "praise but note small loyalty drop from mint"
+      "notes": "praise but note small loyalty drop from mint",
+      "food": "Cup Jelly"
     },
     {
       "week": 6,
@@ -52,7 +54,8 @@
       "week": 9,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "praise; scold only if it refuses"
+      "notes": "praise; scold only if it refuses",
+      "food": "Cup Jelly"
     },
     {
       "week": 10,
@@ -76,7 +79,8 @@
       "week": 13,
       "drill": "Dodge",
       "item": "Candy",
-      "notes": "praise"
+      "notes": "praise",
+      "food": "Cup Jelly"
     },
     {
       "week": 14,
@@ -100,7 +104,8 @@
       "week": 17,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "praise"
+      "notes": "praise",
+      "food": "Cup Jelly"
     },
     {
       "week": 18,
@@ -124,7 +129,8 @@
       "week": 21,
       "drill": "Rest",
       "item": "None",
-      "notes": "take a break for recovery"
+      "notes": "take a break for recovery",
+      "food": "Cup Jelly"
     }
   ],
   "totals": {

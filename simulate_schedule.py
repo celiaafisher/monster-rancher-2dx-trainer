@@ -1,4 +1,5 @@
 import json
+import random
 
 # Load data
 with open('curated_data.json') as f:
@@ -18,6 +19,10 @@ lifespan_used = 0
 
 NAT_FATIGUE_RECOVER = 10
 NAT_STRESS_RECOVER = 5
+
+# Training outcome chances for gating praise/scold actions
+# Great and Fail events open praise or scold opportunities
+# Normal weeks give no loyalty change from handling
 
 # Max items allowed in a 4-week block
 MAX_ITEMS_PER_MONTH = 2
@@ -90,8 +95,20 @@ for week_entry in schedule_data['schedule']:
         stress += d['stresschange']
         fatigue += d['fatiguechange']
 
-        # praise after drill
-        loyalty += 1
+        notes = week_entry.get('notes', '').lower()
+
+        # Determine training outcome
+        outcome = random.choices(
+            ['great', 'fail', 'cheat', 'normal'],
+            weights=[0.1, 0.1, 0.05, 0.75]
+        )[0]
+
+        # adjust loyalty based on outcome and plan
+        if outcome == 'great' and 'praise' in notes:
+            loyalty += 1
+        elif outcome in ('fail', 'cheat') and 'scold' in notes:
+            loyalty -= 1
+        week_entry['outcome'] = outcome
 
     # apply item with monthly limit enforcement
     if item and item.lower() != 'none':
@@ -116,7 +133,8 @@ for week_entry in schedule_data['schedule']:
         'stats': {k: int(v) for k, v in stats.items()},
         'fatigue': round(fatigue, 2),
         'stress': round(stress, 2),
-        'loyalty': loyalty
+        'loyalty': loyalty,
+        'outcome': week_entry.get('outcome', 'normal')
     })
 
 final_stats = {k: int(v) for k, v in stats.items()}

@@ -43,3 +43,8 @@ pip install pandas numpy orjson python-dateutil rich
 Add a week to your plan with `"drill": "Rest"` to skip training and recover extra
 fatigue and stress. The simulator applies an additional **-20 fatigue** and
 **-10 stress** on top of normal weekly recovery when it encounters a Rest entry.
+
+### Praise & Scold Events
+
+In-game, you can only praise or scold a monster when a drill result is **Great**, **Fail**, or the monster **Cheats**.
+The simulator now rolls these outcomes each week, so loyalty gains from praise or scold are **not** guaranteed.

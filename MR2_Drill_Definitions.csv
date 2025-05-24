@@ -1,0 +1,11 @@
+Drill,Type,Main+,Sub+,Drop-,StressChange,FatigueChange,LoyaltyChange
+Domino,Light,Pow,,,5,10,0
+Shoot,Light,Ski,,,5,10,0
+Study,Light,Int,,,5,10,0
+Dodge,Light,Spd,,,5,10,0
+Run,Light,Lif,,,5,10,0
+Endure,Light,Def,,,5,10,0
+Pull,Heavy,Pow,Lif,Spd,12,15,0
+Leap,Heavy,Spd,Int,Pow,12,15,0
+Meditate,Heavy,Int,Ski,Def,12,15,0
+Swim,Heavy,Def,Lif,Int,12,15,0

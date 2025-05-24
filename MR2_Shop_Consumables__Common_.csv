@@ -1,0 +1,11 @@
+Item,Stress,Fatigue,LoyaltyΔ,Cost (G)
+Mango,—,-10,+1 (≈),60
+Candy,-2,—,+1 (≈),120
+Smoked Snake,—,—,"Variable (Fear+40%, Spoil-20%)",600
+Apple Cake,—,—,"Variable (Fear‑10%, Spoil+10)",600
+Mint Leaf,-50%,—,-1,200
+Powder,—,+5,—,100
+Sweet Jelly,—,—,—,200
+Sour Jelly,—,—,—,200
+Nuts Oil,-20% (H.A.D.),-28,+1 (≈),200
+Star Prunes,—,—,+3 (≈),1000

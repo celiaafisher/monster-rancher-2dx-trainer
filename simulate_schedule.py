@@ -1,11 +1,13 @@
 import json
 import random
+import sys
 
 # Load data
 with open('curated_data.json') as f:
     data = json.load(f)
 
-with open('planner_schedule.json') as f:
+schedule_path = sys.argv[1] if len(sys.argv) > 1 else 'planner_schedule.json'
+with open(schedule_path) as f:
     schedule_data = json.load(f)
 
 # Monster base stats

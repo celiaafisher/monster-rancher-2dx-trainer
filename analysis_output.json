@@ -1,0 +1,32 @@
+{
+  "baseline": {
+    "week0": {
+      "LIF": 168,
+      "POW": 87,
+      "INT": 171,
+      "SKI": 182,
+      "SPD": 172,
+      "DEF": 48
+    },
+    "week360": {
+      "LIF": 438,
+      "POW": 267,
+      "INT": 531,
+      "SKI": 542,
+      "SPD": 442,
+      "DEF": 138
+    }
+  },
+  "desired_deltas": {
+    "INT": 2,
+    "SPD": 2,
+    "others": 3
+  },
+  "analysis_notes": "Baseline assumes natural growth only. Deltas aim for 999 max stats by week360.",
+  "pass_through": {
+    "monster_id": 1056,
+    "run_length_weeks": 360,
+    "style_preference": "Even",
+    "risk_tolerance": "Low"
+  }
+}

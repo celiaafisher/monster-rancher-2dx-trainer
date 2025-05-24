@@ -36,3 +36,10 @@ This tool:
 
 ```bash
 pip install pandas numpy orjson python-dateutil rich
+```
+
+### Rest Weeks
+
+Add a week to your plan with `"drill": "Rest"` to skip training and recover extra
+fatigue and stress. The simulator applies an additional **-20 fatigue** and
+**-10 stress** on top of normal weekly recovery when it encounters a Rest entry.

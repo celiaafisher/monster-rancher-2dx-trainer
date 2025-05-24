@@ -55,25 +55,30 @@ for week_entry in schedule_data['schedule']:
         fatigue = max(0, fatigue - NAT_FATIGUE_RECOVER)
         stress = max(0, stress - NAT_STRESS_RECOVER)
 
-    d = drill_info[drill]
-    heavy = d['type'] == 'Heavy'
+    if drill == 'Rest':
+        # additional recovery when resting
+        fatigue = max(0, fatigue - 20)
+        stress = max(0, stress - 10)
+    else:
+        d = drill_info[drill]
+        heavy = d['type'] == 'Heavy'
 
-    # apply drill stats
-    main_stat = d['main+'].upper()
-    sub_stat = d.get('sub+')
-    drop_stat = d.get('drop-')
+        # apply drill stats
+        main_stat = d['main+'].upper()
+        sub_stat = d.get('sub+')
+        drop_stat = d.get('drop-')
 
-    stats[main_stat] = stats.get(main_stat, 0) + (12 if heavy else 4)
-    if sub_stat:
-        stats[sub_stat.upper()] = stats.get(sub_stat.upper(), 0) + (4 if heavy else 0)
-    if drop_stat:
-        stats[drop_stat.upper()] = stats.get(drop_stat.upper(), 0) - (4 if heavy else 0)
+        stats[main_stat] = stats.get(main_stat, 0) + (12 if heavy else 4)
+        if sub_stat:
+            stats[sub_stat.upper()] = stats.get(sub_stat.upper(), 0) + (4 if heavy else 0)
+        if drop_stat:
+            stats[drop_stat.upper()] = stats.get(drop_stat.upper(), 0) - (4 if heavy else 0)
 
-    stress += d['stresschange']
-    fatigue += d['fatiguechange']
+        stress += d['stresschange']
+        fatigue += d['fatiguechange']
 
-    # praise after drill
-    loyalty += 1
+        # praise after drill
+        loyalty += 1
 
     # apply item
     fatigue, stress, loyalty = apply_item(item, fatigue, stress, loyalty)

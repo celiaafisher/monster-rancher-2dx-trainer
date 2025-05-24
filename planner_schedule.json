@@ -19,7 +19,8 @@
 { "week": 17, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise" },
 { "week": 18, "drill": "Leap", "item": "Mint Leaf", "notes": "praise; scold only on failure" },
 { "week": 19, "drill": "Dodge", "item": "Candy", "notes": "praise" },
-{ "week": 20, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise; loyalty should surpass 50" }
+    { "week": 20, "drill": "Meditate", "item": "Nuts Oil", "notes": "praise; loyalty should surpass 50" }
+    ,{ "week": 21, "drill": "Rest", "item": "None", "notes": "take a break for recovery" }
 ],
 "totals": { "INT": 120, "SPD": 88, "fatigue_peak": 28, "stress_peak": 18, "loyalty_final": 54 },
 "warnings": [ "Schedule uses approximate drill effects; exact stat gains may vary." ]

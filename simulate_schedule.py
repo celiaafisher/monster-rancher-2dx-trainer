@@ -14,7 +14,7 @@ with open(schedule_path) as f:
 stats = {entry['stat'].upper(): entry['base'] for entry in data['monsters']}
 
 # Starting values
-loyalty = 50
+loyalty = 0
 fatigue = 0
 stress = 0.0
 lifespan_used = 0

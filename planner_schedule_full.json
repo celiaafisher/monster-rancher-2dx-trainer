@@ -3,7 +3,7 @@
     {
       "week": 1,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -16,7 +16,7 @@
     {
       "week": 3,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -28,7 +28,7 @@
     {
       "week": 5,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -41,7 +41,7 @@
     {
       "week": 7,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -53,7 +53,7 @@
     {
       "week": 9,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -66,7 +66,7 @@
     {
       "week": 11,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -78,7 +78,7 @@
     {
       "week": 13,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -91,7 +91,7 @@
     {
       "week": 15,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -103,7 +103,7 @@
     {
       "week": 17,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -116,7 +116,7 @@
     {
       "week": 19,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -128,7 +128,7 @@
     {
       "week": 21,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -141,7 +141,7 @@
     {
       "week": 23,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -153,7 +153,7 @@
     {
       "week": 25,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -166,7 +166,7 @@
     {
       "week": 27,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -178,7 +178,7 @@
     {
       "week": 29,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "loyalty build",
       "food": "Cup Jelly"
     },
@@ -191,7 +191,7 @@
     {
       "week": 31,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -204,14 +204,14 @@
       "week": 33,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 34,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 35,
@@ -229,14 +229,14 @@
       "week": 37,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 38,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 39,
@@ -254,14 +254,14 @@
       "week": 41,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 42,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 43,
@@ -279,14 +279,14 @@
       "week": 45,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 46,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 47,
@@ -304,14 +304,14 @@
       "week": 49,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 50,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 51,
@@ -329,14 +329,14 @@
       "week": 53,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 54,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 55,
@@ -354,14 +354,14 @@
       "week": 57,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 58,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 59,
@@ -379,14 +379,14 @@
       "week": 61,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy",
+      "notes": "heavy training",
       "food": "Cup Jelly"
     },
     {
       "week": 62,
       "drill": "Leap",
       "item": "Mint Leaf",
-      "notes": "heavy"
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 63,
@@ -410,8 +410,8 @@
     {
       "week": 66,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 67,
@@ -435,8 +435,8 @@
     {
       "week": 70,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 71,
@@ -460,8 +460,8 @@
     {
       "week": 74,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 75,
@@ -485,8 +485,8 @@
     {
       "week": 78,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 79,
@@ -510,8 +510,8 @@
     {
       "week": 82,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 83,
@@ -535,8 +535,8 @@
     {
       "week": 86,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 87,
@@ -560,8 +560,8 @@
     {
       "week": 90,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 91,
@@ -585,8 +585,8 @@
     {
       "week": 94,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 95,
@@ -610,8 +610,8 @@
     {
       "week": 98,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 99,
@@ -635,8 +635,8 @@
     {
       "week": 102,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 103,
@@ -660,8 +660,8 @@
     {
       "week": 106,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 107,
@@ -685,8 +685,8 @@
     {
       "week": 110,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 111,
@@ -710,8 +710,8 @@
     {
       "week": 114,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 115,
@@ -735,8 +735,8 @@
     {
       "week": 118,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 119,
@@ -760,8 +760,8 @@
     {
       "week": 122,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 123,
@@ -785,8 +785,8 @@
     {
       "week": 126,
       "drill": "Run",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 127,
@@ -810,8 +810,8 @@
     {
       "week": 130,
       "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "prime heavy"
+      "item": "Mint Leaf",
+      "notes": "stress relief after heavy work"
     },
     {
       "week": 131,
@@ -828,7 +828,7 @@
     {
       "week": 133,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -841,7 +841,7 @@
     {
       "week": 135,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -853,7 +853,7 @@
     {
       "week": 137,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -866,7 +866,7 @@
     {
       "week": 139,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -878,7 +878,7 @@
     {
       "week": 141,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -891,7 +891,7 @@
     {
       "week": 143,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -903,7 +903,7 @@
     {
       "week": 145,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -916,7 +916,7 @@
     {
       "week": 147,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -928,7 +928,7 @@
     {
       "week": 149,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -941,7 +941,7 @@
     {
       "week": 151,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -953,7 +953,7 @@
     {
       "week": 153,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -966,7 +966,7 @@
     {
       "week": 155,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -978,7 +978,7 @@
     {
       "week": 157,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -991,7 +991,7 @@
     {
       "week": 159,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1003,7 +1003,7 @@
     {
       "week": 161,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1016,7 +1016,7 @@
     {
       "week": 163,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1028,7 +1028,7 @@
     {
       "week": 165,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1041,7 +1041,7 @@
     {
       "week": 167,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "week": 169,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1066,7 +1066,7 @@
     {
       "week": 171,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1078,7 +1078,7 @@
     {
       "week": 173,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1091,7 +1091,7 @@
     {
       "week": 175,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1103,7 +1103,7 @@
     {
       "week": 177,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1116,7 +1116,7 @@
     {
       "week": 179,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1128,7 +1128,7 @@
     {
       "week": 181,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1141,7 +1141,7 @@
     {
       "week": 183,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1153,7 +1153,7 @@
     {
       "week": 185,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1166,7 +1166,7 @@
     {
       "week": 187,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1178,7 +1178,7 @@
     {
       "week": 189,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1191,7 +1191,7 @@
     {
       "week": 191,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1203,7 +1203,7 @@
     {
       "week": 193,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1216,7 +1216,7 @@
     {
       "week": 195,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1228,7 +1228,7 @@
     {
       "week": 197,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1241,7 +1241,7 @@
     {
       "week": 199,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1253,7 +1253,7 @@
     {
       "week": 201,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1266,7 +1266,7 @@
     {
       "week": 203,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1278,7 +1278,7 @@
     {
       "week": 205,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1291,7 +1291,7 @@
     {
       "week": 207,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "week": 209,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1316,7 +1316,7 @@
     {
       "week": 211,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1328,7 +1328,7 @@
     {
       "week": 213,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1341,7 +1341,7 @@
     {
       "week": 215,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "week": 217,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1366,7 +1366,7 @@
     {
       "week": 219,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1378,7 +1378,7 @@
     {
       "week": 221,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1391,7 +1391,7 @@
     {
       "week": 223,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1403,7 +1403,7 @@
     {
       "week": 225,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1416,7 +1416,7 @@
     {
       "week": 227,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1428,7 +1428,7 @@
     {
       "week": 229,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1441,7 +1441,7 @@
     {
       "week": 231,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1453,7 +1453,7 @@
     {
       "week": 233,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1466,7 +1466,7 @@
     {
       "week": 235,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1478,7 +1478,7 @@
     {
       "week": 237,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1491,7 +1491,7 @@
     {
       "week": 239,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1503,7 +1503,7 @@
     {
       "week": 241,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1516,7 +1516,7 @@
     {
       "week": 243,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1528,7 +1528,7 @@
     {
       "week": 245,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1541,7 +1541,7 @@
     {
       "week": 247,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1553,7 +1553,7 @@
     {
       "week": 249,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1566,7 +1566,7 @@
     {
       "week": 251,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1578,7 +1578,7 @@
     {
       "week": 253,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1591,7 +1591,7 @@
     {
       "week": 255,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1603,7 +1603,7 @@
     {
       "week": 257,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1616,7 +1616,7 @@
     {
       "week": 259,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "week": 261,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1641,7 +1641,7 @@
     {
       "week": 263,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1653,7 +1653,7 @@
     {
       "week": 265,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1666,7 +1666,7 @@
     {
       "week": 267,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1678,7 +1678,7 @@
     {
       "week": 269,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1691,7 +1691,7 @@
     {
       "week": 271,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1703,7 +1703,7 @@
     {
       "week": 273,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1716,7 +1716,7 @@
     {
       "week": 275,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1728,7 +1728,7 @@
     {
       "week": 277,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1741,7 +1741,7 @@
     {
       "week": 279,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1753,7 +1753,7 @@
     {
       "week": 281,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1766,7 +1766,7 @@
     {
       "week": 283,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1778,7 +1778,7 @@
     {
       "week": 285,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1791,7 +1791,7 @@
     {
       "week": 287,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1803,7 +1803,7 @@
     {
       "week": 289,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1816,7 +1816,7 @@
     {
       "week": 291,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1828,7 +1828,7 @@
     {
       "week": 293,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1841,7 +1841,7 @@
     {
       "week": 295,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1853,7 +1853,7 @@
     {
       "week": 297,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1866,7 +1866,7 @@
     {
       "week": 299,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1878,7 +1878,7 @@
     {
       "week": 301,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1891,7 +1891,7 @@
     {
       "week": 303,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1903,7 +1903,7 @@
     {
       "week": 305,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1916,7 +1916,7 @@
     {
       "week": 307,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1928,7 +1928,7 @@
     {
       "week": 309,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1941,7 +1941,7 @@
     {
       "week": 311,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1953,7 +1953,7 @@
     {
       "week": 313,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1966,7 +1966,7 @@
     {
       "week": 315,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -1978,7 +1978,7 @@
     {
       "week": 317,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -1991,7 +1991,7 @@
     {
       "week": 319,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -2003,7 +2003,7 @@
     {
       "week": 321,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -2016,7 +2016,7 @@
     {
       "week": 323,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -2028,7 +2028,7 @@
     {
       "week": 325,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -2041,7 +2041,7 @@
     {
       "week": 327,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -2053,7 +2053,7 @@
     {
       "week": 329,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -2066,7 +2066,7 @@
     {
       "week": 331,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -2078,7 +2078,7 @@
     {
       "week": 333,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -2091,7 +2091,7 @@
     {
       "week": 335,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {
@@ -2103,7 +2103,7 @@
     {
       "week": 337,
       "drill": "Study",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": "maintenance",
       "food": "Cup Jelly"
     },
@@ -2116,7 +2116,7 @@
     {
       "week": 339,
       "drill": "Run",
-      "item": "Mint Leaf",
+      "item": "None",
       "notes": ""
     },
     {

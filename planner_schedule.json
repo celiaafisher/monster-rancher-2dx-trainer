@@ -2,143 +2,142 @@
   "schedule": [
     {
       "week": 1,
-      "drill": "Meditate",
-      "item": "Nuts Oil",
-      "notes": "praise after drill \u2013 start loyalty building",
+      "drill": "Study",
+      "item": "None",
+      "notes": "loyalty build",
       "food": "Cup Jelly"
     },
     {
       "week": 2,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "None",
-      "notes": "praise; keep fatigue low early on"
+      "notes": "focus on SKILL"
     },
     {
       "week": 3,
-      "drill": "Dodge",
-      "item": "Mint Leaf",
-      "notes": "praise; mint cuts stress in half"
+      "drill": "Meditate",
+      "item": "Nuts Oil",
+      "notes": "heavy INT focus"
     },
     {
       "week": 4,
-      "drill": "Meditate",
+      "drill": "Rest",
       "item": "None",
-      "notes": "praise again for loyalty gain"
+      "notes": "recover"
     },
     {
       "week": 5,
       "drill": "Study",
-      "item": "Mint Leaf",
-      "notes": "praise but note small loyalty drop from mint",
+      "item": "None",
+      "notes": "maintain INT",
       "food": "Cup Jelly"
     },
     {
       "week": 6,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "None",
-      "notes": "praise"
+      "notes": "steady SKILL gains"
     },
     {
       "week": 7,
-      "drill": "Dodge",
-      "item": "None",
-      "notes": "praise; stress trimmed back"
+      "drill": "Meditate",
+      "item": "Mint Leaf",
+      "notes": "stress relief from heavy work"
     },
     {
       "week": 8,
-      "drill": "Meditate",
-      "item": "Nuts Oil",
-      "notes": "praise"
+      "drill": "Rest",
+      "item": "None",
+      "notes": "recover"
     },
     {
       "week": 9,
-      "drill": "Leap",
-      "item": "Mint Leaf",
-      "notes": "praise; scold only if it refuses",
-      "food": "Cup Jelly"
+      "drill": "Study",
+      "item": "None",
+      "notes": "praise for loyalty"
     },
     {
       "week": 10,
-      "drill": "Study",
-      "item": "None",
-      "notes": "praise; small stress drop"
+      "drill": "Shoot",
+      "item": "Candy",
+      "notes": "loyalty boost"
     },
     {
       "week": 11,
       "drill": "Meditate",
-      "item": "None",
-      "notes": "praise; watch loyalty"
+      "item": "Nuts Oil",
+      "notes": "heavy INT"
     },
     {
       "week": 12,
-      "drill": "Leap",
-      "item": "Nuts Oil",
-      "notes": "praise"
+      "drill": "Rest",
+      "item": "None",
+      "notes": "recover"
     },
     {
       "week": 13,
-      "drill": "Dodge",
-      "item": "Candy",
-      "notes": "praise",
+      "drill": "Study",
+      "item": "None",
+      "notes": "maintain INT",
       "food": "Cup Jelly"
     },
     {
       "week": 14,
-      "drill": "Meditate",
+      "drill": "Shoot",
       "item": "None",
-      "notes": "praise"
+      "notes": "steady SKILL"
     },
     {
       "week": 15,
-      "drill": "Leap",
+      "drill": "Meditate",
       "item": "Mint Leaf",
-      "notes": "praise; mint offsets stress spike"
+      "notes": "stress relief"
     },
     {
       "week": 16,
-      "drill": "Study",
+      "drill": "Rest",
       "item": "None",
-      "notes": "praise; a little fatigue relief"
+      "notes": "recover"
     },
     {
       "week": 17,
-      "drill": "Meditate",
-      "item": "Nuts Oil",
+      "drill": "Study",
+      "item": "None",
       "notes": "praise",
       "food": "Cup Jelly"
     },
     {
       "week": 18,
-      "drill": "Rest",
+      "drill": "Shoot",
       "item": "None",
-      "notes": "praise; scold only on failure"
+      "notes": "focus SKILL"
     },
     {
       "week": 19,
-      "drill": "Dodge",
-      "item": "None",
-      "notes": "praise"
+      "drill": "Meditate",
+      "item": "Nuts Oil",
+      "notes": "heavy INT"
     },
     {
       "week": 20,
-      "drill": "Meditate",
-      "item": "Mint Leaf",
-      "notes": "praise; loyalty should surpass 50"
+      "drill": "Study",
+      "item": "None",
+      "notes": "praise"
     },
     {
       "week": 21,
       "drill": "Rest",
       "item": "None",
-      "notes": "take a break for recovery",
+      "notes": "take a break",
       "food": "Cup Jelly"
     }
   ],
   "totals": {
-    "INT": 120,
-    "SPD": 88,
+    "INT": 140,
+    "SKI": 100,
     "fatigue_peak": 28,
     "stress_peak": 18,
-    "loyalty_final": 54
+    "loyalty_final": 60
   },
   "warnings": [
     "Schedule uses approximate drill effects; exact stat gains may vary.",

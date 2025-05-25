@@ -18,42 +18,38 @@ def generate_schedule():
     schedule = []
     week = 1
 
-    # Stages 1 & 2: light drills for 8 months (weeks 1-32)
-    # No weekly items are used during the early "baby" stage
+    # Stages 1 & 2: focus on INT with SKILL support for the first 8 months
     for month in range(8):
         add_entry(schedule, week, "Study", notes="loyalty build", food="Cup Jelly")
-        add_entry(schedule, week + 1, "Dodge")
-        add_entry(schedule, week + 2, "Run")
+        add_entry(schedule, week + 1, "Shoot")
+        item = "Nuts Oil" if month % 2 == 0 else "Mint Leaf"
+        add_entry(schedule, week + 2, "Meditate", item)
         add_entry(schedule, week + 3, "Rest")
         week += 4
 
-    # Stage 3: ramp up with heavy drills for 8 months (weeks 33-64)
-    # Items are only supplied when the monster is working hard
+    # Stage 3: ramp up with heavy INT drills (weeks 33-64)
     for month in range(8):
-        add_entry(schedule, week, "Meditate", "Nuts Oil", "heavy training", food="Cup Jelly")
-        add_entry(schedule, week + 1, "Leap", "Mint Leaf", "stress relief from heavy work")
+        add_entry(schedule, week, "Meditate", "Nuts Oil", "heavy INT", food="Cup Jelly")
+        add_entry(schedule, week + 1, "Shoot", "Mint Leaf", "stress relief from heavy work")
         add_entry(schedule, week + 2, "Study")
         add_entry(schedule, week + 3, "Rest")
         week += 4
 
-    # Stages 4-6: prime heavy training for 17 months (weeks 65-132)
-    # Alternate between fatigue reduction and stress relief items
+    # Stages 4-6: prime heavy INT training for 17 months (weeks 65-132)
     for month in range(17):
         add_entry(schedule, week, "Meditate", "Nuts Oil", "prime heavy", food="Cup Jelly")
-        drill = "Run" if month % 2 else "Leap"
-        add_entry(schedule, week + 1, drill, "Mint Leaf", "stress relief after heavy work")
-        add_entry(schedule, week + 2, "Dodge")
+        add_entry(schedule, week + 1, "Shoot", "Mint Leaf", "stress relief after heavy work")
+        add_entry(schedule, week + 2, "Study")
         add_entry(schedule, week + 3, "Rest")
         week += 4
 
-    # Stage 7+: taper with light maintenance drills until week 340
-    # No weekly items unless heavy work is scheduled
+    # Stage 7+: taper with light maintenance focused on INT and SKILL
     while week <= 340:
         add_entry(schedule, week, "Study", notes="maintenance", food="Cup Jelly")
         if week + 1 <= 340:
-            add_entry(schedule, week + 1, "Dodge")
+            add_entry(schedule, week + 1, "Shoot")
         if week + 2 <= 340:
-            add_entry(schedule, week + 2, "Run")
+            add_entry(schedule, week + 2, "Meditate")
         if week + 3 <= 340:
             add_entry(schedule, week + 3, "Rest")
         week += 4

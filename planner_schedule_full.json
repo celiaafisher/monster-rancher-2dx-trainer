@@ -9,14 +9,14 @@
     },
     {
       "week": 2,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 3,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Nuts Oil",
       "notes": ""
     },
     {
@@ -34,14 +34,14 @@
     },
     {
       "week": 6,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 7,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Mint Leaf",
       "notes": ""
     },
     {
@@ -59,14 +59,14 @@
     },
     {
       "week": 10,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 11,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Nuts Oil",
       "notes": ""
     },
     {
@@ -84,14 +84,14 @@
     },
     {
       "week": 14,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 15,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Mint Leaf",
       "notes": ""
     },
     {
@@ -109,14 +109,14 @@
     },
     {
       "week": 18,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 19,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Nuts Oil",
       "notes": ""
     },
     {
@@ -134,14 +134,14 @@
     },
     {
       "week": 22,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 23,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Mint Leaf",
       "notes": ""
     },
     {
@@ -159,14 +159,14 @@
     },
     {
       "week": 26,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 27,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Nuts Oil",
       "notes": ""
     },
     {
@@ -184,14 +184,14 @@
     },
     {
       "week": 30,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 31,
-      "drill": "Run",
-      "item": "None",
+      "drill": "Meditate",
+      "item": "Mint Leaf",
       "notes": ""
     },
     {
@@ -204,12 +204,12 @@
       "week": 33,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 34,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -229,12 +229,12 @@
       "week": 37,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 38,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -254,12 +254,12 @@
       "week": 41,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 42,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -279,12 +279,12 @@
       "week": 45,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 46,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -304,12 +304,12 @@
       "week": 49,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 50,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -329,12 +329,12 @@
       "week": 53,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 54,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -354,12 +354,12 @@
       "week": 57,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 58,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -379,12 +379,12 @@
       "week": 61,
       "drill": "Meditate",
       "item": "Nuts Oil",
-      "notes": "heavy training",
+      "notes": "heavy INT",
       "food": "Cup Jelly"
     },
     {
       "week": 62,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief from heavy work"
     },
@@ -409,13 +409,13 @@
     },
     {
       "week": 66,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 67,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -434,13 +434,13 @@
     },
     {
       "week": 70,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 71,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -459,13 +459,13 @@
     },
     {
       "week": 74,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 75,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -484,13 +484,13 @@
     },
     {
       "week": 78,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 79,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -509,13 +509,13 @@
     },
     {
       "week": 82,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 83,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -534,13 +534,13 @@
     },
     {
       "week": 86,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 87,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -559,13 +559,13 @@
     },
     {
       "week": 90,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 91,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -584,13 +584,13 @@
     },
     {
       "week": 94,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 95,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -609,13 +609,13 @@
     },
     {
       "week": 98,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 99,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -634,13 +634,13 @@
     },
     {
       "week": 102,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 103,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -659,13 +659,13 @@
     },
     {
       "week": 106,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 107,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -684,13 +684,13 @@
     },
     {
       "week": 110,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 111,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -709,13 +709,13 @@
     },
     {
       "week": 114,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 115,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -734,13 +734,13 @@
     },
     {
       "week": 118,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 119,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -759,13 +759,13 @@
     },
     {
       "week": 122,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 123,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -784,13 +784,13 @@
     },
     {
       "week": 126,
-      "drill": "Run",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 127,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -809,13 +809,13 @@
     },
     {
       "week": 130,
-      "drill": "Leap",
+      "drill": "Shoot",
       "item": "Mint Leaf",
       "notes": "stress relief after heavy work"
     },
     {
       "week": 131,
-      "drill": "Dodge",
+      "drill": "Study",
       "item": "None",
       "notes": ""
     },
@@ -834,13 +834,13 @@
     },
     {
       "week": 134,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 135,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -859,13 +859,13 @@
     },
     {
       "week": 138,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 139,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -884,13 +884,13 @@
     },
     {
       "week": 142,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 143,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -909,13 +909,13 @@
     },
     {
       "week": 146,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 147,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -934,13 +934,13 @@
     },
     {
       "week": 150,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 151,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -959,13 +959,13 @@
     },
     {
       "week": 154,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 155,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -984,13 +984,13 @@
     },
     {
       "week": 158,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 159,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1009,13 +1009,13 @@
     },
     {
       "week": 162,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 163,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1034,13 +1034,13 @@
     },
     {
       "week": 166,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 167,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1059,13 +1059,13 @@
     },
     {
       "week": 170,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 171,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1084,13 +1084,13 @@
     },
     {
       "week": 174,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 175,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1109,13 +1109,13 @@
     },
     {
       "week": 178,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 179,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1134,13 +1134,13 @@
     },
     {
       "week": 182,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 183,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1159,13 +1159,13 @@
     },
     {
       "week": 186,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 187,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1184,13 +1184,13 @@
     },
     {
       "week": 190,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 191,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1209,13 +1209,13 @@
     },
     {
       "week": 194,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 195,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1234,13 +1234,13 @@
     },
     {
       "week": 198,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 199,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1259,13 +1259,13 @@
     },
     {
       "week": 202,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 203,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1284,13 +1284,13 @@
     },
     {
       "week": 206,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 207,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1309,13 +1309,13 @@
     },
     {
       "week": 210,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 211,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1334,13 +1334,13 @@
     },
     {
       "week": 214,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 215,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1359,13 +1359,13 @@
     },
     {
       "week": 218,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 219,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1384,13 +1384,13 @@
     },
     {
       "week": 222,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 223,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1409,13 +1409,13 @@
     },
     {
       "week": 226,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 227,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1434,13 +1434,13 @@
     },
     {
       "week": 230,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 231,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1459,13 +1459,13 @@
     },
     {
       "week": 234,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 235,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1484,13 +1484,13 @@
     },
     {
       "week": 238,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 239,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1509,13 +1509,13 @@
     },
     {
       "week": 242,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 243,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1534,13 +1534,13 @@
     },
     {
       "week": 246,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 247,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1559,13 +1559,13 @@
     },
     {
       "week": 250,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 251,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1584,13 +1584,13 @@
     },
     {
       "week": 254,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 255,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1609,13 +1609,13 @@
     },
     {
       "week": 258,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 259,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1634,13 +1634,13 @@
     },
     {
       "week": 262,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 263,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1659,13 +1659,13 @@
     },
     {
       "week": 266,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 267,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1684,13 +1684,13 @@
     },
     {
       "week": 270,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 271,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1709,13 +1709,13 @@
     },
     {
       "week": 274,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 275,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1734,13 +1734,13 @@
     },
     {
       "week": 278,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 279,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1759,13 +1759,13 @@
     },
     {
       "week": 282,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 283,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1784,13 +1784,13 @@
     },
     {
       "week": 286,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 287,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1809,13 +1809,13 @@
     },
     {
       "week": 290,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 291,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1834,13 +1834,13 @@
     },
     {
       "week": 294,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 295,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1859,13 +1859,13 @@
     },
     {
       "week": 298,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 299,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1884,13 +1884,13 @@
     },
     {
       "week": 302,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 303,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1909,13 +1909,13 @@
     },
     {
       "week": 306,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 307,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1934,13 +1934,13 @@
     },
     {
       "week": 310,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 311,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1959,13 +1959,13 @@
     },
     {
       "week": 314,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 315,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -1984,13 +1984,13 @@
     },
     {
       "week": 318,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 319,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -2009,13 +2009,13 @@
     },
     {
       "week": 322,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 323,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -2034,13 +2034,13 @@
     },
     {
       "week": 326,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 327,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -2059,13 +2059,13 @@
     },
     {
       "week": 330,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 331,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -2084,13 +2084,13 @@
     },
     {
       "week": 334,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 335,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },
@@ -2109,13 +2109,13 @@
     },
     {
       "week": 338,
-      "drill": "Dodge",
+      "drill": "Shoot",
       "item": "None",
       "notes": ""
     },
     {
       "week": 339,
-      "drill": "Run",
+      "drill": "Meditate",
       "item": "None",
       "notes": ""
     },

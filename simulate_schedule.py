@@ -14,10 +14,14 @@ with open(schedule_path) as f:
 stats = {entry['stat'].upper(): entry['base'] for entry in data['monsters']}
 
 # Starting values
-loyalty = 0
+# The game derives Loyalty from two hidden stats: Fear and Spoil.
+# We track them explicitly so loyalty can be computed more accurately.
+fear = 0
+spoil = 0
 fatigue = 0
 stress = 0.0
 lifespan_used = 0
+loyalty = int(round((fear + spoil) / 2))
 
 NAT_FATIGUE_RECOVER = 10
 NAT_STRESS_RECOVER = 5
@@ -40,18 +44,27 @@ item_effects = {
     'Mango': {'fatigue': -10, 'stress_delta': 0, 'loyalty': 1},
 }
 
-def apply_item(item, fatigue, stress, loyalty):
+def clamp(value, lo=0, hi=100):
+    return max(lo, min(value, hi))
+
+def apply_item(item, fatigue, stress, fear, spoil):
+    """Apply item effects including loyalty adjustments via fear/spoil."""
     eff = item_effects.get(item, {})
     fatigue += eff.get('fatigue', 0)
     if 'stress_mult' in eff:
         stress *= eff['stress_mult']
     stress += eff.get('stress_delta', 0)
-    loyalty += eff.get('loyalty', 0)
-    if fatigue < 0:
-        fatigue = 0
-    if stress < 0:
-        stress = 0
-    return fatigue, stress, loyalty
+
+    loyalty_delta = eff.get('loyalty', 0)
+    if loyalty_delta:
+        # Convert direct loyalty change into spoil adjustments.
+        spoil += loyalty_delta * 2
+
+    fatigue = max(0, fatigue)
+    stress = max(0, stress)
+    fear = clamp(fear)
+    spoil = clamp(spoil)
+    return fatigue, stress, fear, spoil
 
 run_log = []
 warnings = []
@@ -105,11 +118,25 @@ for week_entry in schedule_data['schedule']:
             weights=[0.1, 0.1, 0.05, 0.75]
         )[0]
 
-        # adjust loyalty based on outcome and plan
-        if outcome == 'great' and 'praise' in notes:
-            loyalty += 1
-        elif outcome in ('fail', 'cheat') and 'scold' in notes:
-            loyalty -= 1
+        # adjust fear/spoil based on outcome and handling
+        if outcome == 'great':
+            if 'praise' in notes:
+                spoil += 6
+            else:
+                fear += 10
+                spoil -= 24
+        elif outcome == 'fail':
+            if 'scold' in notes:
+                fear += 15
+                spoil -= 15
+        elif outcome == 'cheat':
+            if 'scold' in notes:
+                spoil -= 6
+
+        # keep values within 0-100 bounds
+        fear = clamp(fear)
+        spoil = clamp(spoil)
+
         week_entry['outcome'] = outcome
 
     # apply item with monthly limit enforcement
@@ -125,7 +152,10 @@ for week_entry in schedule_data['schedule']:
         else:
             items_in_month += 1
 
-    fatigue, stress, loyalty = apply_item(item, fatigue, stress, loyalty)
+    fatigue, stress, fear, spoil = apply_item(item, fatigue, stress, fear, spoil)
+
+    # compute loyalty from current fear and spoil levels
+    loyalty = int(round((fear + spoil) / 2))
 
     # track lifespan
     lifespan_used += 1
@@ -135,12 +165,14 @@ for week_entry in schedule_data['schedule']:
         'stats': {k: int(v) for k, v in stats.items()},
         'fatigue': round(fatigue, 2),
         'stress': round(stress, 2),
+        'fear': fear,
+        'spoil': spoil,
         'loyalty': loyalty,
         'outcome': week_entry.get('outcome', 'normal')
     })
 
 final_stats = {k: int(v) for k, v in stats.items()}
-final_stats['loyalty'] = loyalty
+final_stats.update({'fear': fear, 'spoil': spoil, 'loyalty': loyalty})
 for entry in run_log:
     if entry['fatigue'] > 40:
         breaches.append({'week': entry['week'], 'type': 'fatigue', 'value': entry['fatigue']})
